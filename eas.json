@@ -1,0 +1,14 @@
+
+{
+    "build": {
+      "preview": {
+        "android": {
+        }
+      },
+      "preview2": {
+        "android": {
+        }
+      }
+    }
+  }
+  
